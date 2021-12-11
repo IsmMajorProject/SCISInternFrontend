@@ -26,7 +26,7 @@ function Home() {
             fontFamily: "monospace",
           }}
         >
-          School of Computer and Information Sciences<br/>Recuriting Website
+          School of Computer and Information Sciences<br/>Recruiting Website
         </div>
         
         
