@@ -14,7 +14,7 @@ function Home() {
             </div>
       <div
           style={{
-            fontSize: "40px",
+            fontSize: "38px",
             color: "green",
             textAlign: "center",
             margin: "auto",
@@ -26,7 +26,7 @@ function Home() {
             fontFamily: "monospace",
           }}
         >
-          School of Computer and Information Sciences<br/>Intern Recuriting Website
+          School of Computer and Information Sciences<br/>Recuriting Website
         </div>
         
         
